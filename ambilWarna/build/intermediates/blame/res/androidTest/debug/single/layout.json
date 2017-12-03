@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ambilwarna_pref_widget.xml",
+        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\layout\\ambilwarna_pref_widget.xml"
+    },
+    {
+        "merged": "D:\\FBReaderJ-Android-Studio-master\\FBReaderJ-Android-Studio-master\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ambilwarna_dialog.xml",
+        "source": "D:\\FBReaderJ-Android-Studio-master\\FBReaderJ-Android-Studio-master\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\layout\\ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ambilwarna_dialog.xml",
+        "source": "F:\\ndkFile\\FBReaderJ\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\layout\\ambilwarna_dialog.xml"
+    },
+    {
+        "merged": "D:\\FBReaderJ-Android-Studio-master\\FBReaderJ-Android-Studio-master\\ambilWarna\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\ambilwarna_pref_widget.xml",
+        "source": "D:\\FBReaderJ-Android-Studio-master\\FBReaderJ-Android-Studio-master\\ambilWarna\\build\\intermediates\\bundles\\debug\\res\\layout\\ambilwarna_pref_widget.xml"
+    }
+]
